@@ -7,6 +7,6 @@ genre: "Comedia"
 order: 4
 ---
 
-## Sobre la obra
+**SOBRE LA OBRA**
 
 "A Cuadros" es una de las producciones de Teatro Al Alba que mejor representa el espíritu cómico del grupo. Una obra que combina el humor físico con el ingenio verbal, creando situaciones hilarantes que mantienen al público en constante carcajada.

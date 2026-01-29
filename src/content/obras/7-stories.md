@@ -22,11 +22,15 @@ genre: "Comedia negra"
 order: 0
 ---
 
-## Sinopsis
+**SINOPSIS**
 
 Un hombre decide acabar con su vida saltando desde la cornisa de un edificio de apartamentos. Pero antes de dar el paso definitivo, los residentes de las siete plantas comienzan a aparecer en sus ventanas, cada uno más absorto en sus propios problemas que preocupados por el suicida.
 
-## Sobre la obra
+&nbsp;
+
+&nbsp;
+
+**SOBRE LA OBRA**
 
 "7 Stories" de Morris Panych es una brillante comedia negra que utiliza el humor para explorar temas como la soledad, la incomunicación y la indiferencia de la sociedad moderna.
 

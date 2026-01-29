@@ -7,7 +7,7 @@ genre: "Comedia dramática"
 order: 7
 ---
 
-## Sobre la obra
+**SOBRE LA OBRA**
 
 "Verano en Diciembre" es una producción de Teatro Al Alba que mezcla elementos cómicos y dramáticos en una historia que habla sobre el paso del tiempo, las relaciones familiares y los cambios inesperados de la vida.
 

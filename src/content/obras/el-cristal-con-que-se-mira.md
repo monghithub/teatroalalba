@@ -7,7 +7,7 @@ genre: "Drama / Comedia"
 order: 6
 ---
 
-## Sobre la obra
+**SOBRE LA OBRA**
 
 "El Cristal con que se mira" es una producción de Teatro Al Alba que explora las diferentes perspectivas desde las que cada persona observa y juzga el mundo que le rodea.
 

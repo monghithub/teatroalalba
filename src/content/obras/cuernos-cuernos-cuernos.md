@@ -8,6 +8,6 @@ genre: "Comedia de enredos"
 order: 5
 ---
 
-## Sobre la obra
+**SOBRE LA OBRA**
 
 Basada en la exitosa comedia de Ray Cooney, esta adaptación de Teatro Al Alba lleva al extremo las situaciones cómicas derivadas de las mentiras y los engaños conyugales. Un ritmo trepidante y unos personajes entrañables hacen de esta obra una experiencia teatral inolvidable.

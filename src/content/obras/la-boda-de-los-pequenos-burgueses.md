@@ -17,7 +17,7 @@ genre: "Comedia satírica"
 order: 1
 ---
 
-## Sinopsis
+**SINOPSIS**
 
 La Boda de los pequeños burgueses de Bertolt Brecht es una comedia satírica que retrata una celebración nupcial en la que las apariencias de felicidad y éxito se desmoronan poco a poco.
 
@@ -25,7 +25,11 @@ En el transcurso de la velada, lo que comienza como una fiesta alegre se transfo
 
 Con humor ácido y una crítica mordaz a la clase media, Brecht desnuda las contradicciones y miserias de la vida burguesa.
 
-## Sobre la obra
+&nbsp;
+
+&nbsp;
+
+**SOBRE LA OBRA**
 
 "La Boda de los pequeños burgueses" es una de las primeras obras de Brecht, escrita en 1919. A pesar de su juventud, ya muestra los elementos que caracterizarían su teatro posterior: la crítica social mordaz, el humor negro y la capacidad de revelar las contradicciones de la sociedad burguesa.
 

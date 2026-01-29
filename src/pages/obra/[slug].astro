@@ -103,7 +103,7 @@ const { Content } = await obra.render();
       <div class="grid grid-cols-1 lg:grid-cols-3 gap-12">
         <!-- Main Content -->
         <div class="lg:col-span-2">
-          <div class="prose prose-lg max-w-none prose-headings:font-display prose-headings:text-charcoal-900 prose-p:text-charcoal-600 prose-a:text-burgundy-600 hover:prose-a:text-burgundy-800 prose-strong:text-charcoal-900">
+          <div class="obra-content">
             <Content />
           </div>
         </div>
@@ -190,3 +190,29 @@ const { Content } = await obra.render();
     </div>
   </section>
 </BaseLayout>
+
+<style>
+  .obra-content h2 {
+    font-size: 1.75rem;
+    font-weight: 700;
+    color: #1a1a1a;
+    margin-top: 3rem;
+    margin-bottom: 1.5rem;
+  }
+
+  .obra-content h2:first-child {
+    margin-top: 0;
+  }
+
+  .obra-content p {
+    color: #4a4a4a;
+    line-height: 1.8;
+    margin-bottom: 1.5rem;
+    font-size: 1.125rem;
+  }
+
+  .obra-content strong {
+    color: #1a1a1a;
+    font-weight: 600;
+  }
+</style>

@@ -17,7 +17,7 @@ genre: "Novela picaresca"
 order: 2
 ---
 
-## Sinopsis
+**SINOPSIS**
 
 La vida del buscón llamado don Pablos, ejemplo de vagamundos y espejo de tacaños, es sin duda el mejor referente dentro del género de la novela picaresca.
 
@@ -25,7 +25,11 @@ El principal propósito de Quevedo con esta obra parece ser el de llevar a cabo 
 
 En realidad "El Buscón" es la historia de un hombre fracasado en su vida y que todo le sale mal, pero eso resulta sumamente gracioso. No se deja títere con cabeza, ya que todos los personajes de la obra son criticados.
 
-## Sobre la obra
+&nbsp;
+
+&nbsp;
+
+**SOBRE LA OBRA**
 
 "El Buscón" o "Historia de la vida del Buscón llamado don Pablos" es una de las obras cumbre de la literatura picaresca española. Escrita por Francisco de Quevedo hacia 1604, destaca por su lenguaje brillante, su humor corrosivo y su crítica social implacable.
 

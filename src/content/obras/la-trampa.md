@@ -17,7 +17,7 @@ genre: "Thriller / Drama"
 order: 3
 ---
 
-## Sinopsis
+**SINOPSIS**
 
 Un hombre en su luna de miel espera el regreso de su esposa, desaparecida desde hace diez días, tras una discusión.
 
@@ -25,9 +25,13 @@ La investigación policial se estanca hasta que una mujer, que dice ser la espos
 
 El marido puede gritar en vano, los hechos y varios testigos confirman que la mujer es efectivamente su esposa.
 
-**¿Está loco o lo persigue una banda de criminales?**
+¿Está loco o lo persigue una banda de criminales?
 
-## Sobre la obra
+&nbsp;
+
+&nbsp;
+
+**SOBRE LA OBRA**
 
 "La Trampa" es un thriller psicológico que mantiene al espectador en vilo desde el primer momento. Con giros inesperados y una tensión creciente, la obra explora los límites entre la realidad y la paranoia, entre la cordura y la locura.
 
