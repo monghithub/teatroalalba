@@ -1,29 +1,4 @@
 services:
-  traefik:
-    image: traefik:v3.2
-    container_name: traefik
-    restart: unless-stopped
-    security_opt:
-      - no-new-privileges:true
-    ports:
-      - "80:80"
-      - "443:443"
-    volumes:
-      - /var/run/docker.sock:/var/run/docker.sock:ro
-      - ./traefik/acme.json:/acme.json
-      - ./traefik/traefik.yml:/etc/traefik/traefik.yml:ro
-    networks:
-      - web
-    labels:
-      - "traefik.enable=true"
-      # Dashboard (optional - disable in production)
-      - "traefik.http.routers.traefik.rule=Host(`traefik.monghit.com`)"
-      - "traefik.http.routers.traefik.entrypoints=websecure"
-      - "traefik.http.routers.traefik.tls.certresolver=letsencrypt"
-      - "traefik.http.routers.traefik.service=api@internal"
-      - "traefik.http.routers.traefik.middlewares=auth"
-      - "traefik.http.middlewares.auth.basicauth.users=admin:$$apr1$$xyz$$hashedpassword"
-
   teatro-alalba:
     build:
       context: .
@@ -31,7 +6,7 @@ services:
     container_name: teatro-alalba
     restart: unless-stopped
     networks:
-      - web
+      - traefik-net
     labels:
       - "traefik.enable=true"
       # HTTP to HTTPS redirect
@@ -54,5 +29,5 @@ services:
       - "traefik.http.middlewares.https-redirect.redirectscheme.permanent=true"
 
 networks:
-  web:
+  traefik-net:
     external: true
