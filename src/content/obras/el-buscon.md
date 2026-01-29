@@ -2,7 +2,7 @@
 title: "El Buscón"
 author: "Francisco de Quevedo"
 description: "La vida del buscón llamado don Pablos, ejemplo de vagamundos y espejo de tacaños, es sin duda el mejor referente dentro del género de la novela picaresca. En realidad es la historia de un hombre fracasado en su vida y que todo le sale mal, pero eso resulta sumamente gracioso."
-year: 2024
+year: 2023
 status: "cartelera"
 coverImage: "/images/galeria/cc968a55-9fd9-403a-8184-366d37420026/image.jpg"
 youtubeId: "h8G4IgHWGCM"

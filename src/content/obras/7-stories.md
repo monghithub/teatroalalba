@@ -2,6 +2,7 @@
 title: "7 Stories"
 author: "Morris Panych"
 description: "Una comedia negra donde un hombre sube a la cornisa de un edificio de siete pisos con intención de saltar, pero sus vecinos, cada uno con sus propios problemas, no paran de interrumpirle con sus dramas personales."
+year: 2025
 status: "cartelera"
 coverImage: "/images/galeria/8e986a7c-cff0-48a7-88a1-61a3e6f3e330/image.jpg"
 youtubeId: "Mco1GdXSzFs"

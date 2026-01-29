@@ -2,7 +2,7 @@
 title: "La Trampa"
 author: "Robert Thomas"
 description: "Un hombre en su luna de miel espera el regreso de su esposa, desaparecida desde hace diez días, tras una discusión. La investigación policial se estanca hasta que una mujer, que dice ser la esposa buscada, regresa al hogar conyugal. ¿Está loco o lo persigue una banda de criminales?"
-year: 2024
+year: 2022
 status: "cartelera"
 coverImage: "/images/galeria/23b40218-6e2a-48bd-9cd1-d174ac9b6acf/image.jpg"
 youtubeId: "LOJzXKaiftk"
