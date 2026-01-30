@@ -224,6 +224,13 @@ const obrasData = sortedPremios.map((obraPremios, index) => {
       featuredStats.textContent = `${obra.certamenesCount} certámenes · ${obra.premiosCount} premios · ${obra.nominacionesCount} nominaciones`;
       featuredLink.href = `/obra/${obra.obraSlug}`;
 
+      // Hide link for premios anteriores (no obra page exists)
+      if (obra.obraSlug === 'premios-anteriores') {
+        featuredLink.style.display = 'none';
+      } else {
+        featuredLink.style.display = 'inline-flex';
+      }
+
       // Update thumbnails
       thumbs.forEach((thumb, i) => {
         if (i === index) {

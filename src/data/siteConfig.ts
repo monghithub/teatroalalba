@@ -12,7 +12,7 @@ export const siteConfig = {
     country: 'España'
   },
   foundedYear: 1982,
-  founder: 'Alberto Garrido Ruiz',
+  president: 'Alberto Garrido Ruiz',
   social: {
     facebook: 'https://www.facebook.com/TeatroAlAlba/',
     instagram: 'https://www.instagram.com/teatroalalba/',
